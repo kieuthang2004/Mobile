@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ToDoList</string>
+    <string name="title_home">Home</string>
+    <string name="title_alltasks">AllTasks</string>
+    <string name="title_calender">Calendar</string>
+    <string name="client_id">768132488482-2m9928a4oq9fni1nesugurj608conr2m.apps.googleusercontent.com</string>
+</resources>
